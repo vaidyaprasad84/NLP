@@ -10,6 +10,6 @@ From a high level POV, I have divide my approaches into various sections:
   * using classifications algorithms to classify them into different buckets. 
 
 * Transformers (BERT, BART)
- * Using pre-trained various transformer
- * Fine tuning the entire transformer model architecture on Tweet data
- * Fine tuning only the classification head of the transfomer models
+  * Using pre-trained various transformer
+  * Fine tuning the entire transformer model architecture on Tweet data
+  * Fine tuning only the classification head of the transfomer models
