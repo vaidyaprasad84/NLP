@@ -1,4 +1,5 @@
 This folder is dedicated to the Kaggle Competition of identifying Disaster Tweets
+(https://www.kaggle.com/competitions/nlp-getting-started)
 Herein, I have tested various approaches to identify whether the tweet is disaster or not. 
 
 From a high level POV, I have divide my approaches into various sections:
